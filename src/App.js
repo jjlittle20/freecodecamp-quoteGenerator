@@ -34,7 +34,10 @@ function App() {
   }, []);
   return (
     <>
-      <a href="" className="d-flex justify-content-end">
+      <a
+        href="https://github.com/jjlittle20/freecodecamp-quoteGenerator"
+        className="d-flex justify-content-end"
+      >
         Github Repo
       </a>
       <div className=" d-flex justify-content-center align-items-center h-100 d-inline-block p-4">
