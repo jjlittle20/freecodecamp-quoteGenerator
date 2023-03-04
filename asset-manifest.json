@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jjlittle20/freecodecamp-quoteGenerator/static/css/main.a15ba35e.css",
+    "main.js": "/jjlittle20/freecodecamp-quoteGenerator/static/js/main.0996a269.js",
+    "static/js/787.e4ae0a49.chunk.js": "/jjlittle20/freecodecamp-quoteGenerator/static/js/787.e4ae0a49.chunk.js",
+    "index.html": "/jjlittle20/freecodecamp-quoteGenerator/index.html",
+    "main.a15ba35e.css.map": "/jjlittle20/freecodecamp-quoteGenerator/static/css/main.a15ba35e.css.map",
+    "main.0996a269.js.map": "/jjlittle20/freecodecamp-quoteGenerator/static/js/main.0996a269.js.map",
+    "787.e4ae0a49.chunk.js.map": "/jjlittle20/freecodecamp-quoteGenerator/static/js/787.e4ae0a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15ba35e.css",
+    "static/js/main.0996a269.js"
+  ]
+}
