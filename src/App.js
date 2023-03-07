@@ -53,7 +53,7 @@ function App() {
               <button id="new-quote" onClick={() => getQuoteData()}>
                 New Quote
               </button>
-              <a href="twitter.com/intent/tweet" id="tweet-quote">
+              <a href="https://twitter.com/intent/tweet" id="tweet-quote">
                 Tweet
               </a>
             </div>
